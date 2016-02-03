@@ -1,0 +1,72 @@
+#onpage-post-seo-items li{
+	cursor:pointer;
+}
+
+#onpage-post-seo-items li:hover{
+	background:#F5F5F5;
+	Color:#000;
+	 
+}
+
+#onpage-post-seo-items li{
+	padding:10px 10px 10px 0;
+}
+.hndle {
+	margin:10px 0px 10px !important;
+	font-size: 18px;
+	font-weight: 700;
+}
+
+#onpage_post_seo_tool_more{
+	
+}
+
+#onpage_post_seo_tool_body {
+	display: none;
+}
+
+#onpage_post_seo_tool_search_txt {
+	width:60%;
+	
+}
+
+.onpage_post_seo_tool_itms {
+	border: 1px dashed #CCCCFF;
+	border-radius: 3px 3px 3px 3px;
+	margin-bottom: 10px;
+	padding: 5px;
+	color: #798E94;
+}
+
+.onpage_post_seo_tool_itm input[type="checkbox"] { //
+	margin-right: 5px; //
+	float: left;
+}
+
+#onpage_post_seo_tool_keywords {
+	margin: 4px 0 5px 1px;
+    padding: 5px;
+}
+
+onpage_post_seo_tool_keywords_wrap{
+	
+}
+
+.onpage_post_seo_tool_keyword {
+	float: left;
+    margin-bottom: 5px;
+    margin-left: 5px;
+}
+
+.onpage_post_seo_tool_volume {
+	float: right;
+}
+
+.noborder {
+	
+}
+
+.onpage_post_seo_tool_count,.onpage_post_seo_tool_keyword_status{
+font-size: 17px;
+font-weight: bold;   
+}

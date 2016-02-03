@@ -1,0 +1,100 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: On-Page and Post SEO\n"
+"POT-Creation-Date: 2016-01-01 14:52+0200\n"
+"PO-Revision-Date: 2016-01-01 14:53+0200\n"
+"Last-Translator: \n"
+"Language-Team: Rep U Press <support@repupress.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+"X-Poedit-SearchPath-2: ..\n"
+
+#: ../onpage-post-seo.php:20
+msgid "On-Page and Post SEO"
+msgstr ""
+
+#: ../onpage-post-seo.php:21
+msgid "Keyword Tool Density Check"
+msgstr ""
+
+#: ../onpage-post-seo.php:31
+msgid "Keyword..."
+msgstr ""
+
+#: ../onpage-post-seo.php:32
+msgid "Search"
+msgstr ""
+
+#: ../onpage-post-seo.php:42
+msgid "Check/uncheck all"
+msgstr ""
+
+#: ../onpage-post-seo.php:44
+msgid "Add Tags"
+msgstr ""
+
+#: ../onpage-post-seo.php:45
+msgid "Watch Density"
+msgstr ""
+
+#: ../onpage-post-seo.php:46
+msgid "Show as list"
+msgstr ""
+
+#: ../onpage-post-seo.php:49
+msgid "keyword tool has found"
+msgstr ""
+
+#: ../onpage-post-seo.php:49
+msgid "keywords for the term"
+msgstr ""
+
+#: ../onpage-post-seo.php:76
+msgid "Keyword"
+msgstr ""
+
+#: ../onpage-post-seo.php:76
+msgid "Density"
+msgstr ""
+
+#: ../onpage-post-seo.php:89
+msgid "What should density equal ?"
+msgstr ""
+
+#: ../onpage-post-seo.php:91
+msgid "Ideal Keyword density for single keyword is"
+msgstr ""
+
+#: ../onpage-post-seo.php:105
+msgid "Keyword Tool"
+msgstr ""
+
+#: ../options-keyword-tool.php:180
+msgid "Keyword tool for wordpress settings"
+msgstr ""
+
+#: ../options-keyword-tool.php:187
+msgid "General settings"
+msgstr ""
+
+#: ../options-keyword-tool.php:200
+msgid "Google Site"
+msgstr ""
+
+#: ../options-keyword-tool.php:243
+msgid ""
+"Select your language from the list to get the letters if your language is "
+"not in the list add your language letters manually comma separated like a,b,"
+"c,... etc"
+msgstr ""
+
+#: ../options-keyword-tool.php:252
+msgid "Save options"
+msgstr ""

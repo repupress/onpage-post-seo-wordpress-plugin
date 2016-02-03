@@ -1,0 +1,432 @@
+# LANGUAGE (de_DE) translation for WordPress.
+# Copyright (C) 2013 WordPress contributors.
+# This file is distributed under the same license as the WordPress package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WTB SEO WP Plugin\n"
+"PO-Revision-Date: 2016-01-01 14:53+0200\n"
+"Last-Translator: \n"
+"Language-Team: Rep U Press <support@repupress.com>\n"
+"Language-Team: Webtec-Braun\n"
+"Language: de-de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: .\n"
+
+#: ../actions.php:21 ../actions.php:166
+msgid "OnPage Post SEO"
+msgstr "OnPage Post SEO"
+
+#: ../actions.php:165 ../settings.php:129
+msgid "OnPage Post SEO Settings"
+msgstr "OnPage Post SEO Einstellungen"
+
+#: ../settings.php:18
+msgid "On-Page and Post Options"
+msgstr "SEO post optimizer Optionen"
+
+#: ../settings.php:26
+msgid "Ideal keyword density (default: 3%)"
+msgstr "Optimale Keyword Dichte (Standard: 3%)"
+
+#: ../settings.php:35
+msgid "Ideal post lenght (default: 250)"
+msgstr "Optimale Länge des Textes (Standard: 250 Wörter)"
+
+#: ../settings.php:44
+msgid "Parameter to check"
+msgstr "Optionen zur Überprüfung"
+
+#: ../settings.php:53
+msgid "Keyword density or WDF to show"
+msgstr "Einstellung Keywordedichte oder WDF"
+
+#: ../settings.php:62
+msgid "Activate in custom post types"
+msgstr "Das Plugin soll in folgenden Beitragsarten aktiv sein"
+
+#: ../settings.php:69
+msgid "Custom post types"
+msgstr "Beitragsarten"
+
+#: ../settings.php:79
+msgid "WooCommerce settings"
+msgstr "WooCommerce Einstellungen"
+
+#: ../settings.php:86
+msgid "Check short description"
+msgstr "Check kurz Beschreibung"
+
+#: ../settings.php:96
+msgid "Auto refresh settings"
+msgstr "Autorefresh Einstellungen"
+
+#: ../settings.php:103
+msgid "Disabled"
+msgstr "Deaktivieren"
+
+#: ../settings.php:111
+msgid "Auto refresh after (sec.)"
+msgstr "Autorefresh nach (Sek.)"
+
+#: ../settings.php:124
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Sie haben nicht die erforderlichen Rechte, um diese Seite anzuzeigen"
+
+#: ../settings.php:211
+msgid "words"
+msgstr "Wörter"
+
+#: ../settings.php:243
+msgid "Title tag"
+msgstr "Title tag"
+
+#: ../settings.php:244
+msgid "H1 tag"
+msgstr "H1 Überschrift"
+
+#: ../settings.php:245
+msgid "H2 tag"
+msgstr "H2 Überschrift"
+
+#: ../settings.php:246
+msgid "H3 tag"
+msgstr "H3 Überschrift"
+
+#: ../settings.php:247
+msgid "bold"
+msgstr "fett"
+
+#: ../settings.php:248
+msgid "italicize"
+msgstr "kursiv"
+
+#: ../settings.php:249
+msgid "underline"
+msgstr "unterstrichen"
+
+#: ../settings.php:250
+msgid "picture"
+msgstr "Bild"
+
+#: ../classes/box.php:190
+msgid "You do not have an image to add ALT tags"
+msgstr "Kein Bild vorhanden, um einen ALT tag zu vergeben"
+
+#: ../classes/box.php:191
+msgid "You have an image to add ALT tags to"
+msgstr "Bild vorhanden zur Vergabe eines ALT Tags"
+
+#: ../classes/box.php:195
+#, php-format
+msgid "The text is not long enough. Please write %s words more."
+msgstr "Der Text ist nicht lang genug. Bitte schreiben Sie %s Wörter mehr"
+
+#: ../classes/box.php:198
+msgid "The text is long enough"
+msgstr "Der Text ist lang genug."
+
+#: ../classes/box.php:201
+msgid "Internal Links are missing"
+msgstr "Interne Links fehlen."
+
+#: ../classes/box.php:202
+msgid "Internal Links are here"
+msgstr "Interne Links sind vorhanden."
+
+#: ../classes/box.php:205
+msgid "You have too many H1 tags"
+msgstr "Zu viele H1 tags vorhanden"
+
+#: ../classes/box.php:206
+msgid "You have no H1 tag"
+msgstr "Kein H1 tag vorhanden"
+
+#: ../classes/box.php:207
+msgid "You have one H1 tag"
+msgstr "Ein H1 tag vorhanden"
+
+#: ../classes/box.php:210
+msgid "You have too many H2 tags"
+msgstr "Zu viele H2 tags vorhanden"
+
+#: ../classes/box.php:211
+msgid "You dont have H2 tags"
+msgstr "Keine H2 tags vorhanden"
+
+#: ../classes/box.php:212
+msgid "You have enough H2 tags"
+msgstr "Ausreichend H2 tags vorhanden"
+
+#: ../classes/box.php:215
+msgid "You dont have H3 tags"
+msgstr "Keine H3 tags vorhanden"
+
+#: ../classes/box.php:216
+msgid "You have too many H3 tags"
+msgstr "Zu viele H3 tags vorhanden"
+
+#: ../classes/box.php:217
+msgid "You have enough H3 tags"
+msgstr "Ausreichend H3 tags vorhanden"
+
+#: ../classes/box.php:229
+msgid ""
+"It’s adjuvant  to have an image in your post or on your page. It’s useful "
+"for visitors and increases your chance to be found in Google images."
+msgstr ""
+"Es ist hilfreich, ein Bild im Beitrag zu verwenden. Es ist für Besucher "
+"nützlich und verbessert die Chance, über google images gefunden zu werden."
+
+#: ../classes/box.php:230
+msgid "Search engines prefer text with a minimum length of 250 words."
+msgstr "Suchmaschinen bevorzugen Text mit einer Länge von mind. 250 Wörtern."
+
+#: ../classes/box.php:231
+msgid ""
+"Use internal links to older content with similar subject on your domain, to "
+"optimize your internal structure."
+msgstr ""
+"Verwenden Sie interne Links zu älteren Inhalten mit ähnlichem Thema um die "
+"interne Linkstruktur zu verbessern."
+
+#: ../classes/box.php:232
+msgid ""
+"Search engines expect exact one H1 tag on each page. There should be only "
+"one H1 tag on each page, but there should be one!"
+msgstr ""
+"Suchmaschinen erwarten genau ein H1 tag auf jeder Seite. Es sollte nur ein "
+"H1 tag auf jeder Seite vorhanden sein, es darf aber auch nicht fehlen."
+
+#: ../classes/box.php:233
+msgid ""
+"You should use H2 tags in your post or on your page to help search engines "
+"crawling your page. Use one or two H2 tags for optimum."
+msgstr ""
+"Sie sollten H2 tags benutzen, um Suchmaschinen die Indexierung der Seite zu "
+"erleichtern. Optimal sind ein bis zwei H2 tags."
+
+#: ../classes/box.php:234
+msgid ""
+"You should use H3 tags on your page. Use up to four H3 tags on one page."
+msgstr ""
+"Sie sollten H3 tags benutzen, um Suchmaschinen die Indexierung der Seite zu "
+"erleichtern. Optimal sind bis zu vier H3 tags auf einer Seite."
+
+#: ../classes/box_section.php:95
+msgid "There is no keyword in title"
+msgstr "Kein Keyword im Title des Beitrages"
+
+#: ../classes/box_section.php:96
+msgid "There is keyword in title"
+msgstr "Keyword im Title vorhanden"
+
+#: ../classes/box_section.php:99
+msgid "You do not have an H1 tag containing your keyword"
+msgstr "Kein H1 tag vorhanden, der das Keyword enthält"
+
+#: ../classes/box_section.php:100
+msgid "You have an H1 tag containing your keyword"
+msgstr "Ein H1 tag vorhanden, der das Keyword enthält"
+
+#: ../classes/box_section.php:103
+msgid "You do not have an H2 tag containing your keyword"
+msgstr "Kein H2 tag vorhanden, der das Keyword enthält"
+
+#: ../classes/box_section.php:104
+msgid "You have an H2 tag containing your keyword"
+msgstr "Ein H2 tag vorhanden, der das Keyword enthält"
+
+#: ../classes/box_section.php:107
+msgid "You do not have an H3 tag containing your keyword"
+msgstr "Kein H3 tag vorhanden, der das Keyword enthält"
+
+#: ../classes/box_section.php:108
+msgid "You have an H3 tag containing your keyword"
+msgstr "Ein H3 tag vorhanden, der das Keyword enthält"
+
+#: ../classes/box_section.php:111
+msgid "Your keyword is not in bold"
+msgstr "Kein Keyword in fett/bold vorhanden"
+
+#: ../classes/box_section.php:112
+msgid "Your keyword is in bold"
+msgstr "Keyword in fett/bold vorhanden"
+
+#: ../classes/box_section.php:115
+msgid "Your keyword is not italicized"
+msgstr "Keyword in kursiv nicht vorhanden"
+
+#: ../classes/box_section.php:116
+msgid "Your keyword is italicized"
+msgstr "Keyword in kursiv vorhanden"
+
+#: ../classes/box_section.php:119
+msgid "Your keyword is not underlined"
+msgstr "Keyword unterstrichen nicht vorhanden"
+
+#: ../classes/box_section.php:120
+msgid "Your keyword is in underline"
+msgstr "Keyword unterstrichen vorhanden"
+
+#: ../classes/box_section.php:123
+msgid "Your keyword is not in image alt tag"
+msgstr "Keyword nicht im alt tag des Bildes vorhanden"
+
+#: ../classes/box_section.php:124
+msgid "Your keyword is in image alt tag"
+msgstr "Keyword im alt tag des Bildes vorhanden"
+
+#: ../classes/box_section.php:222
+msgid ""
+"For good rankings, your keyword should also be in the title of your page or "
+"your post."
+msgstr ""
+"Für gute Platzierungsergebnisse in den Suchmaschinen sollte ddas Keyword "
+"auch im Title des Beitrages erscheinen"
+
+#: ../classes/box_section.php:223
+msgid "For good rankings  there should be a H1 tag containing the Keyword."
+msgstr ""
+"Für gute Platzierungsergebnisse in den Suchmaschinen sollte ein H1 tag "
+"vorhanden sein, der das Keyword enthält."
+
+#: ../classes/box_section.php:224
+msgid ""
+"For good rankings there should be 1 up to 2  H2 tag containing the Keyword. "
+msgstr ""
+"Für gute Platzierungsergebnisse in den Suchmaschinen sollten ein bis zwei H2 "
+"tags vorhanden sein, die das Keyword enthalten."
+
+#: ../classes/box_section.php:225
+msgid ""
+"For good rankings there should be at least 1 up to 3 H3 tag containing the "
+"Keyword."
+msgstr ""
+"Für gute Platzierungsergebnisse in den Suchmaschinen sollten mindestens ein "
+"bis 3 H3 tags vorhanden sein, die das Keyword enthalten."
+
+#: ../classes/box_section.php:226
+msgid ""
+"Search engines take highlighted words for more important. That’s why you "
+"should at least once use your keyword in bold."
+msgstr ""
+"Suchmaschinen bewerten hervorgehobene Wörter als wichtig. Deswegen sollte "
+"das Keyword mindestens einmal in bold/fett erscheinen."
+
+#: ../classes/box_section.php:227
+msgid ""
+"Search engines take highlighted words for more important. That’s why you "
+"should at least once italicize your keyword ."
+msgstr ""
+"Suchmaschinen bewerten hervorgehobene Wörter als wichtig. Deswegen sollte "
+"das Keyword mindestens einmal in kursiv erscheinen."
+
+#: ../classes/box_section.php:228
+msgid ""
+"Search engines take highlighted words for more important. That’s why you "
+"should at least once underline your keyword."
+msgstr ""
+"Suchmaschinen bewerten hervorgehobene Wörter als wichtig. Deswegen sollte "
+"das Keyword mindestens einmal unterstrichen erscheinen."
+
+#: ../classes/box_section.php:229
+msgid ""
+"It is good to have an image on your page. Use the alt tag of the image to "
+"place your keyword for search engines."
+msgstr ""
+"Es ist gut, ein Bild im Beitrag zu verwenden. Nutzen Sie den alt tag des "
+"Bildes, um das Keyword für Suchmaschinen zu hinterlegen."
+
+#: ../classes/helper.php:28
+msgid "."
+msgstr ","
+
+#: ../views/box_header.php:8
+msgid "Please fill your post title and write something in the content area"
+msgstr "Bitte den Title des Beitrages angeben und den Inhaltsbereich befüllen"
+
+#: ../views/box_header.php:10
+msgid "Please write something in the contentarea"
+msgstr "Bitte den Inhaltsbereich befüllen."
+
+#: ../views/box_header.php:12
+msgid "Please fill your post title"
+msgstr "Bitte den Title des Beitrages angeben"
+
+#: ../views/box_header.php:18
+msgid "You may optimize up to <strong>3 Keywords</strong>"
+msgstr ""
+"Sie können den Beitrag auf bis zu <strong>3 Keywords</strong> optimieren"
+
+#: ../views/box_header.php:21
+msgid "Click on \"+\" to add Keyword"
+msgstr "Auf \"+\" klicken, um ein Keyword hinzuzufügen"
+
+#: ../views/box_header.php:29
+msgid "remove"
+msgstr "entfernen"
+
+#: ../views/box_header.php:35 ../views/box_header.php:36
+msgid "Add keyword..."
+msgstr "Keyword hinzufügen"
+
+#: ../views/box_header.php:42
+msgid "Click to Refresh Keywords"
+msgstr "Zum Aktualisieren klicken "
+
+#: ../views/box_header.php:44
+msgid "Click to Refresh"
+msgstr "Klicken zum Aktualisieren"
+
+#: ../views/general.php:7
+msgid "General"
+msgstr "Allgemeine"
+
+#: ../views/general.php:7
+msgid "post optimisation"
+msgstr "Beitragsoptimierung"
+
+#: ../views/general.php:37
+msgid "Your post ist perfectly optimized"
+msgstr "Der Beitrag ist komplett optimiert"
+
+#: ../views/general.php:55
+msgid "Total score"
+msgstr "Gesamtpunkte"
+
+#: ../views/section.php:21
+msgid ""
+"Try to get a score near 100%. If you get a green checkmark on each criteria, "
+"you have the best chances to get to 100%."
+msgstr ""
+"Versuchen Sie, einen Wert annähernd 100% zu erreichen. Sobald Sie ein grünes "
+"Häkchen für jedes Kriterium erhalten, haben Sie die besten Chancen, 100 % zu "
+"erreichen. "
+
+#: ../views/section.php:22
+msgid "Score"
+msgstr "Punkte"
+
+#: ../views/section.php:29
+msgid ""
+"A keyword Density of 3 % is ideal – that means if your text has a length of "
+"250 words, your defined keyword should appear 9 times."
+msgstr ""
+"Eine Keyword Dichte von 3 % ist optimal. Das bedeutet, dass bei einer "
+"Textlänge von 250 Wörtern das definierte Keyword 9x erscheinen sollte."
+
+#: ../views/section.php:30
+msgid "Keyword Density"
+msgstr "Keyword Dichte"
+
+#: ../views/section.php:36
+msgid "WDF"
+msgstr "WDF"
